@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722480773262",
+    "project_id": "remote-config-f2ea5",
+    "storage_bucket": "remote-config-f2ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722480773262:android:ad1522569988afdfba71df",
+        "android_client_info": {
+          "package_name": "com.milad.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722480773262-s49sgl7kvjl4ala45of4g8u2vijke2ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9phgyU9fLbg29LkDsufCX7FY_xpFeRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722480773262-s49sgl7kvjl4ala45of4g8u2vijke2ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

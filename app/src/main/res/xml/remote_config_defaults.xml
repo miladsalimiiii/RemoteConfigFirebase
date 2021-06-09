@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>title</key>
+        <value>Android</value>
+    </entry>
+    <entry>
+        <key>description</key>
+        <value>How to become a better Android Developer</value>
+    </entry>
+    <entry>
+        <key>more_info</key>
+        <value>Read More</value>
+    </entry>
+</defaultsMap>
